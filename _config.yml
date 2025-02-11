@@ -1,0 +1,6 @@
+title:  Sam
+logo: asssets/images/profile.png
+show_downloads: True
+remote_theme: pages-theme/minimalv0.2.0
+plugin:
+  - jekyll-remote-theme
